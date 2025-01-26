@@ -25,4 +25,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 5. Quando acertar, uma mensagem de vitória será exibida junto com a quantidade de tentativas realizadas.
 6. Desafie seus amigos para ver quem consegue adivinhar com o menor número de tentativas.
 
-## Link para jogar do seu lado direito 👉🏼
+## Link para jogar do seu lado direito 👉🏼 
+(mas se for em dispositivo movel, estará lá em cima!) 👆🏼
